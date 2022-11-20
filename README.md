@@ -1,3 +1,3 @@
 # An analysis of Kickster Campaigns
-Performing analysison Kickstarter data to uncover trends
-
+Performing analysis on Kickstarter data to uncover trends
+##Added new files for Kickstarter_Challege
