@@ -15,5 +15,10 @@ Purpose of of this analysis is to find key dates and fund goal, to find the best
 
 ####Results
 
-1.By examining the Theater outcomes vs launch chart, we can conclude that the best time to launch a campaign for theaters are at the beginning of the year, with the most success being in the month of May. Also, We can also see that the worst time to launch a campaign is towards the end of the end of the year, we can see that succesful outcomes begin a downfall trend going towards fall and winter.
-2. When looking at the Outcomes vs Goals chartm we can say that having funds between < $1000 and 
+1.By examining the Theater outcomes vs launch chart, the best time to launch a campaign for theaters are at the beginning of the year, with the most success being in the month of May. Also, t the worst time to launch a campaign is towards the end of the end of the year, we can see that succesful outcomes begin a downfall trend going towards fall and winter. So inconclusion, best time to lauch a campaign is in the month of May. 
+
+2. When looking at the Outcomes vs Goals chart we can say that having funds between < $1000 and and < $25000 and funds at $40000 - $45000, have the greatest success, however, having goals funds > $50000, has little to no success.
+
+3. Some limitations of this data set is that we do not see how the campaigns were advertised and/or what avenues did the campaigners used to be more successful than others. By seeing how campaigns were advertised and what platforms that were being used to promote the campaigns we can have an better understanding on the differnt ways of promoting that lead to an successful outcome.
+
+Although the the line chart was a good way to express the data. An bar chart would have been another option to show the data. It, in some ways can be easier to read than line charts.
