@@ -13,7 +13,7 @@ Purpose of of this analysis is to find key dates and fund goal, to find the best
 
 ### I began my analysis by creating a pivot chart for launch date and outcomes. by using the year() funtion, I was able to separate the data into years only. When creating the Outcome vs Goals spreadsheet and chart. I used the countif() and countis() function. However, some challenges that were faced during this data analysis was to extract the correct data for successful and failed theaters based on goals funded. When I began to organize the data for successful and failed goal funds, I first filtered the "outcomes" columns to succesful campaigns only and used the countif() formula to extract the data into the new spread sheet, I did the same for failed outcomes. When my results came back, I got the same exact numbers for both successful and failed goals. This made my percentage for both 50% at the end. So I had to back track and see what I had done wrong. So, I went back into the data sheet and turned off the filters for the outcomes. With the help from "https://support.microsoft.com/en-us/office/countifs-function-dda3dc6e-f74e-4aee-88bc-aa8c2a866842", I was able to use the countif() function correctly, and it made the rest of the data gathering process easier. 
 
-####Results
+#### Results
 
 #### 1.By examining the Theater outcomes vs launch chart, the best time to launch a campaign for theaters are at the beginning of the year, with the most success being in the month of May. Also, t the worst time to launch a campaign is towards the end of the end of the year, we can see that succesful outcomes begin a downfall trend going towards fall and winter. So inconclusion, best time to lauch a campaign is in the month of May. 
 
